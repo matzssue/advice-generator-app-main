@@ -38,21 +38,16 @@ body {
     height: 45%;
 }   
 
-
-
 .number {
-
    color: hsl(150, 100%, 66%);
    letter-spacing: 0.2em;
    font-size: 1em;
-   
 }
 .text {
    color: rgb(216, 214, 214);
    font-size: 2em;
 }
 .breakPoint {
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +60,6 @@ body {
     background-color: white;
     height: 18px;
     width: 6px;
-
 }
 .left,
 .right {
@@ -80,8 +74,6 @@ body {
     margin-top: 5px;
     display: flex;
     justify-content: center;
-
-
 }
 #block {
     background-color:  hsl(150, 100%, 66%);
